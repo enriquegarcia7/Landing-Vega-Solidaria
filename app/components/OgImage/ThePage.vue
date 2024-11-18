@@ -164,7 +164,7 @@
           height="630"
           width="630"
           class="h-full rounded-r-3xl w-full"
-        />
+        >
       </div>
     </div>
   </div>

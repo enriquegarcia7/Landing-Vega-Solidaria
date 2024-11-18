@@ -66,7 +66,7 @@
             <div class="p-2 w-1/2 sm:w-4/12">
               <div class="block hover:opacity-75 overflow-hidden rounded-xl">
                 <NuxtImg
-                  src="/donaciones.png"
+                  src="/vega_solidaria.png"
                   class="w-full"
                 />
               </div>
@@ -98,7 +98,7 @@
             <div class="p-2 w-1/2 sm:w-4/12">
               <div class="block hover:opacity-75 overflow-hidden rounded-xl">
                 <NuxtImg
-                  src="/ayuda.png"
+                  src="/vega_solidaria_hero.png"
                   class="w-full"
                 />
               </div>
@@ -109,7 +109,7 @@
       <div class="flex flex-col sm:w-full md:items-end">
         <hr class="mb-4 opacity-25">
         <p class="py-1 text-sm sm:text-center">
-          &copy; 2023. Todos los derechos reservados - Vega Solidaria
+          &copy; 2024. Todos los derechos reservados - Vega Solidaria
         </p>
       </div>
     </div>

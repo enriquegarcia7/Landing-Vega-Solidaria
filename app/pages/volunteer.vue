@@ -43,7 +43,7 @@
                   type="email"
                   required
                   name="fields[email]"
-                />
+                >
                 <BaseButton type="submit" class="ml-2" variant="soft" size="md">
                   Sign Up
                 </BaseButton>
