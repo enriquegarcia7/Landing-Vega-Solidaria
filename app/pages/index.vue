@@ -6,7 +6,7 @@
     // name: 'index',
     // alias: 'index',
     title: 'Home',
-    description: 'Thousands of homeless pets, one act of kindness!',
+    description: 'Ayudando a personas en situación de calle!',
     navOrder: 1,
     type: 'primary',
     icon: 'i-mdi-home',
