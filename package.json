@@ -22,7 +22,7 @@
     "format": "prettier --write \"**/*.{vue,js,jsx,cjs,mjs,ts,tsx,cts,mts,html,css,md,mdx,json}\" !public --ignore-path .gitignore"
   },
   "dependencies": {
-    "@pinia/nuxt": "^0.5.4",
+    "@pinia/nuxt": "^0.7.0",
     "@vee-validate/nuxt": "^4.13.2",
     "@vueuse/core": "^11.0.3",
     "lite-youtube-embed": "^0.3.3",
