@@ -26,7 +26,7 @@
     "@vee-validate/nuxt": "^4.13.2",
     "@vueuse/core": "^11.0.3",
     "lite-youtube-embed": "^0.3.3",
-    "pinia": "^2.2.2"
+    "pinia": "^2.2.8"
   },
   "devDependencies": {
     "@iconify/json": "^2.2.242",
